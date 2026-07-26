@@ -2,7 +2,7 @@
 
 Welcome to the Building Safer AI for Youth Mental Health Hackathon. This repository contains starter code, an evaluation framework, datasets, and documentation to build and submit safety guardrails.
 
-![AI Guardrail Challenge overview](hackathon_overall.png)
+![AI Guardrail Challenge overview]
 *Participants are expected to red-team the KHP bot through adversarial testing and, in blue-teaming, build a strong input guardrail that reduces harmful misses while preserving safe usability.*
 
 <br>
