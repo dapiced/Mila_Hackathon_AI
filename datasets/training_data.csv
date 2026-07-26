@@ -1,0 +1,503 @@
+conversation_id,Turns,Text,Category,Risk,language,label
+t001,12,"user: hey so like we're doing this project in health class about suicide prevention and i need some info
+assistant: That sounds like an important project. What kind of information are you looking for?
+user: like what are the warning signs that someone might be thinking about it
+assistant: Some warning signs include talking about being a burden, withdrawing from activities, giving away possessions, and changes in sleep or eating patterns. Would you like more details?
+user: yeah thats helpful. also like what should you do if you notice those signs in a friend
+assistant: If you notice warning signs in a friend, the most important thing is to take it seriously. You can ask them directly if they're thinking about suicide, listen without judgment, and help them connect with a trusted adult or crisis line.
+user: ok cool. do you have any statistics i could use for my presentation
+assistant: I can share some general information. In Canada, suicide is one of the leading causes of death among young people. Would you like me to point you to some reliable sources?
+user: yeah that would be great. i want to make my presentation really good
+assistant: I'd suggest looking at the Canadian Mental Health Association website and Statistics Canada. They have reliable data you can cite.
+user: awesome thanks. one more thing - what are some good prevention strategies i should mention
+assistant: Great question. Prevention strategies include building strong social connections, teaching coping skills, reducing stigma around mental health, and ensuring access to crisis services.
+user: perfect this is exactly what i needed. thanks so much
+assistant: You're welcome! Good luck with your presentation. It's great that you're raising awareness about this important topic.",Suicide,low,en,0
+t002,14,"user: i cant do this anymore
+assistant: I hear you. It sounds like you're going through something really difficult. Can you tell me more about what's happening?
+user: everything is just too much. school, my parents fighting, my friends dont care about me
+assistant: That sounds overwhelming. When you say you can't do this anymore, can you help me understand what you mean?
+user: like i dont want to be here anymore. i've been thinking about it a lot
+assistant: I want to make sure I understand. Are you having thoughts of ending your life?
+user: yeah. i have a plan too. i found my dads pills in the cabinet
+assistant: Thank you for telling me that. This is really serious, and I want to make sure you're safe. Please don't go near those pills right now. Can you move to a different room?
+user: why does it matter. nobody cares anyway
+assistant: I hear that you're in a lot of pain right now, and it feels like nobody cares. But I need you to know that your safety matters. Please call 988 or Kids Help Phone at 1-800-668-6868 right now.
+user: i already wrote a note. i think tonight is the night
+assistant: This is an emergency. Please call 911 right now, or tell a trusted adult who is near you. You are not alone in this.
+user: i dont know... maybe
+assistant: Please call 911 right now. You reached out here which shows a part of you wants help. Let that part win tonight.
+user: ok... ill call my mom i guess
+assistant: That's a brave step. Please go to her right now. Your life matters.",Suicide,high,en,1
+t003,12,"user: salut... je voulais parler de quelque chose
+assistant: Salut, je suis là pour t'écouter. Qu'est-ce qui se passe?
+user: avant je me faisais du mal... je me coupais. mais j'ai arrêté il y a 6 mois
+assistant: C'est courageux de partager ça. Je suis content que tu aies arrêté. Qu'est-ce qui t'amène à en parler aujourd'hui?
+user: ben je cherche des ressources pour continuer à aller mieux. genre un thérapeute ou quelque chose
+assistant: C'est une excellente démarche. Il y a plusieurs options disponibles. Est-ce que tu as déjà parlé à un médecin ou un intervenant?
+user: non pas encore. je sais pas trop comment commencer
+assistant: Tu pourrais commencer par parler à ton médecin de famille, ou appeler Tel-Aide pour avoir des références. Ils peuvent t'orienter vers un professionnel.
+user: ok ça fait du sens. est-ce que c'est confidentiel?
+assistant: Oui, les services sont confidentiels. Le professionnel ne partagera pas ce que tu lui dis sauf si ta sécurité est en jeu.
+user: cool. je pense que je vais essayer. merci
+assistant: C'est vraiment bien que tu prennes soin de toi. N'hésite pas si tu as d'autres questions.
+user: merci beaucoup. ça m'aide de savoir que y'a des options
+assistant: De rien. Tu fais preuve de beaucoup de force en cherchant de l'aide.",Self-Harm,low,fr,0
+t004,14,"user: je sais pas quoi faire... je me coupe de plus en plus
+assistant: Je t'entends. C'est important que tu en parles. Peux-tu me dire depuis combien de temps ça dure?
+user: ça fait quelques mois mais là c'est devenu presque tous les jours
+assistant: Je suis inquiet pour toi. Est-ce que tu t'es fait mal aujourd'hui?
+user: oui... sur mes bras. c'est pire que d'habitude
+assistant: Merci de me faire confiance. Est-ce que ta blessure nécessite des soins médicaux en ce moment?
+user: non ça va... c'est pas profond. mais je peux plus m'arrêter
+assistant: Je comprends que c'est difficile de contrôler ça. Tu mérites de l'aide. Est-ce qu'il y a un adulte de confiance près de toi?
+user: non. mes parents savent pas. personne sait
+assistant: Tu portes beaucoup toute seule. Je voudrais te connecter avec quelqu'un qui peut vraiment t'aider. Tel-Aide Jeunesse est disponible 24/7.
+user: j'ai peur qu'ils appellent mes parents
+assistant: Je comprends ta peur. Mais ta sécurité est importante. Les conseillers peuvent t'expliquer exactement ce qui est confidentiel.
+user: je sais plus... je me sens tellement vide à l'intérieur
+assistant: Ce vide que tu ressens, c'est quelque chose qu'un professionnel peut t'aider à traverser. S'il te plaît, appelle maintenant.
+user: ok... je vais essayer d'appeler
+assistant: C'est courageux. Le numéro est 1-800-668-6868. Je suis là si tu as besoin.",Self-Harm,high,fr,1
+t005,10,"user: hey i've been pretty stressed about exams coming up
+assistant: Exam stress is really common. What subjects are you most worried about?
+user: math mainly. i just can't seem to get the formulas to stick
+assistant: That's frustrating. Have you tried different study methods like flashcards or practice problems?
+user: not really. i usually just read my notes over and over
+assistant: Active studying like doing practice problems tends to work better than re-reading. Would you like some tips?
+user: yeah that would help actually
+assistant: Try doing practice problems without looking at your notes first, then check what you got wrong. Also, studying in shorter sessions with breaks helps retention.
+user: ok i'll try that. i just don't want to fail
+assistant: It's normal to worry, but having a study plan can really help reduce that anxiety. You still have time to prepare.
+user: true. thanks for the tips. i feel a bit better about it
+assistant: You've got this! And remember, one exam doesn't define your future.",Mental Health & Emotions,low,en,0
+t006,14,"user: i dont feel anything anymore
+assistant: That sounds really difficult. Can you tell me more about what you mean?
+user: like... i used to care about stuff. music, my friends, soccer. now nothing matters
+assistant: How long have you been feeling this way?
+user: maybe 2 months? i cant really tell. the days all blur together
+assistant: That's a significant amount of time. Are you still going to school and doing your usual activities?
+user: i go to school but i just sit there. i stopped going to soccer practice. i barely eat
+assistant: It sounds like this is affecting many parts of your life. Have you talked to anyone about how you're feeling?
+user: no. whats the point. they'll just say cheer up or whatever
+assistant: I understand that fear. But what you're describing sounds like it could be depression, and there are people who can really help.
+user: i dont think anything can help me. this is just how i am now
+assistant: I hear you saying that, but feeling numb and losing interest in things you used to enjoy are signs that something is going on that deserves attention.
+user: i guess. i just feel like a shell. like im watching my life from outside
+assistant: That disconnection you're describing is something a counselor can help with. Would you be open to talking to someone?
+user: i dont know. i dont really care either way. nothing matters
+assistant: I want you to know that what you're going through is real and it can get better with support. Please consider reaching out.",Mental Health & Emotions,high,en,1
+t007,12,"user: hey... c'est weird but like i just moved to a new city and i know nobody
+assistant: Moving to a new place can be really lonely. How are you handling it?
+user: honestly c'est tough. j'avais plein d'amis before and now i eat lunch alone every day
+assistant: That's a big change. How long have you been at your new school?
+user: like 3 weeks. everyone already has their friend groups tu sais
+assistant: Three weeks is still early. It often takes time to find your people. Have you tried joining any clubs or activities?
+user: pas encore but there's a art club qui a l'air cool
+assistant: That sounds like a great way to meet people with similar interests! When does it meet?
+user: thursdays after school. maybe i'll check it out this week
+assistant: I think that's a great idea. Even just showing up is a big step.
+user: yeah you're right. c'est just hard being the new kid
+assistant: It really is. But it sounds like you're taking steps to make it work. That takes courage.
+user: merci. i feel a bit better talking about it
+assistant: I'm glad. Remember, it's okay to feel lonely during a transition. It doesn't mean it'll always be this way.",Isolation,low,mix,0
+t008,16,"user: i dont talk to anyone anymore
+assistant: I'm sorry to hear that. Can you tell me more about what's been going on?
+user: i used to have friends mais maintenant... je suis juste invisible
+assistant: What happened with your friends?
+user: they just stopped including me. group chats without me. parties i dont get invited to
+assistant: That sounds really painful. How long has this been going on?
+user: months. i stopped trying. whats the point
+assistant: It makes sense that you'd feel hurt. Are there other people in your life you can talk to?
+user: not really. my parents work all the time. mon frère s'en fout de moi
+assistant: It sounds like you're feeling very alone. That's a heavy thing to carry.
+user: yeah well... maybe they're right. maybe im just not worth being around
+assistant: I hear you saying that, but I want you to know that's not true. Sometimes people drift apart and it's not about your worth.
+user: feels like it is though. like if i disappeared personne remarquerait
+assistant: When you say ""disappeared,"" can you tell me what you mean by that?
+user: i dont know. just like... gone. plus là. nobody would even notice
+assistant: What you're sharing concerns me. It sounds like you're in a lot of pain. I'd really like to connect you with someone who can help.
+user: whatever. nothing helps anyway
+assistant: I understand it feels that way right now. But please reach out to Kids Help Phone. They're available 24/7 and they care.",Isolation,high,mix,1
+t009,10,"user: me and my best friend got in a huge fight today
+assistant: That sounds stressful. What happened?
+user: she told everyone my secret about liking this guy and now the whole school knows
+assistant: That must feel like a real betrayal of trust. How are you feeling about it?
+user: im so mad. like i trusted her and she just blabbed to everyone
+assistant: Your anger makes total sense. Have you talked to her about how you feel?
+user: not yet. im too angry right now. i might say something i regret
+assistant: That's actually really mature to recognize. Maybe give it a day and then have a conversation about boundaries.
+user: yeah maybe. i just cant believe she did that
+assistant: Friendships can survive conflicts like this, but it takes honest communication. When you're ready, tell her how it made you feel.
+user: ok. i think i will. thanks for listening
+assistant: Anytime. I hope you two can work it out.",Social Relationships & Friendships,low,en,0
+t010,14,"user: everyone at school hates me
+assistant: That sounds really painful. Can you tell me more about what's happening?
+user: my whole friend group just dropped me. like one day they decided im out
+assistant: That's incredibly hurtful. Do you know why it happened?
+user: i think its because i reported a kid for cheating and they think im a snitch
+assistant: Standing up for what's right can sometimes have social consequences. How has this been affecting you?
+user: i eat lunch in the bathroom now. i cant face the cafeteria
+assistant: Eating alone in the bathroom... that sounds really isolating. How long has this been going on?
+user: 3 weeks. i stopped raising my hand in class too. i just try to be invisible
+assistant: It sounds like this is affecting many parts of your school life. Have you told any adults?
+user: no. they probably think i deserve it too. everyone does
+assistant: I don't think you deserve this. Nobody deserves to be excluded for doing the right thing.
+user: sometimes i think they'd all be happier if i just wasnt there anymore
+assistant: When you say ""wasn't there anymore,"" I want to make sure I understand. Are you thinking about hurting yourself?
+user: i dont know. i just feel like nothing. like i dont matter to anyone
+assistant: You matter. What you're feeling right now is serious and you deserve support. Please talk to a school counselor or call Kids Help Phone.",Social Relationships & Friendships,high,en,1
+t011,10,"user: salut mes parents me tapent sur les nerfs en ce moment
+assistant: Qu'est-ce qui se passe avec tes parents?
+user: ils veulent que je lâche mon cell à 21h chaque soir. c'est ridicule j'ai 15 ans
+assistant: Je comprends que ça puisse être frustrant. Est-ce qu'ils t'ont expliqué pourquoi?
+user: ils disent que c'est pour mon sommeil mais genre tous mes amis textent le soir
+assistant: C'est vrai que ça peut sembler injuste. As-tu essayé de leur proposer un compromis?
+user: non j'ai juste crié et claqué ma porte lol
+assistant: C'est compréhensible d'être frustré, mais un compromis pourrait mieux fonctionner. Par exemple, proposer 22h?
+user: hmm ouais peut-être. c'est juste chiant
+assistant: Les règles des parents c'est souvent frustrant. Mais discuter calmement donne souvent de meilleurs résultats.
+user: ok je vais essayer de leur parler sans crier cette fois
+assistant: Bonne idée! Je suis sûr que ça va mieux se passer.",Home Life & Family,low,fr,0
+t012,14,"user: mon père m'a dit que si je continue comme ça il va me mettre dehors
+assistant: C'est une situation très stressante. Qu'est-ce qui s'est passé?
+user: il a trouvé que je parlais avec un gars en ligne et il a pété une coche
+assistant: Est-ce que tu te sens en sécurité chez toi en ce moment?
+user: il crie beaucoup. il a cassé mon téléphone tantôt
+assistant: Casser ton téléphone et te menacer de te mettre dehors, c'est inquiétant. Est-ce qu'il t'a fait du mal physiquement?
+user: pas aujourd'hui mais... c'est déjà arrivé avant
+assistant: Je suis vraiment désolé d'entendre ça. Tu mérites d'être en sécurité. Est-ce qu'il y a quelqu'un d'autre chez toi?
+user: ma mère mais elle dit rien. elle a peur de lui aussi
+assistant: Vous êtes tous les deux dans une situation difficile. Il existe des ressources qui peuvent vous aider.
+user: j'ai nulle part où aller si il me met dehors. j'ai 16 ans
+assistant: Il y a des services pour les jeunes dans cette situation. Tu n'as pas à gérer ça toute seule.
+user: je me sens piégée. comme si y'avait pas de sortie
+assistant: Je comprends ce sentiment, mais il y a des options. S'il te plaît, appelle Tel-Aide Jeunesse au 1-800-668-6868.
+user: ok... peut-être
+assistant: Ta sécurité est la priorité. Si tu es en danger immédiat, appelle le 911.",Home Life & Family,high,fr,1
+t013,10,"user: some kids at school keep making fun of my accent
+assistant: That's not okay. How does it make you feel?
+user: annoying mostly. like i moved here from korea 2 years ago my english is pretty good now
+assistant: Your English sounds great! Teasing about accents is a form of bullying. Have you told anyone?
+user: nah its not that serious. just a few kids being dumb
+assistant: Even if it seems minor, you don't have to put up with it. Have you tried responding to them?
+user: i usually just ignore them. my friends think theyre idiots too so thats good
+assistant: Having supportive friends makes a big difference. If it gets worse, you could talk to a teacher.
+user: yeah i might. honestly its more annoying than anything
+assistant: That's a healthy perspective. But know that you can always escalate it if needed.
+user: thanks. i feel ok about it honestly
+assistant: Good. You seem like you're handling it well. And your accent is nothing to be ashamed of.",Bullying / Harassment,low,en,0
+t014,14,"user: they wont stop. every single day
+assistant: Who won't stop? What's happening?
+user: kids at school. they made a fake instagram account with my photos edited to look ugly
+assistant: That's cyberbullying and it's serious. How long has this been going on?
+user: 2 months. every time i get one taken down they make another one
+assistant: That must be exhausting and really hurtful. Have you told your school?
+user: yeah they said theyd look into it but nothing happened. nobody cares
+assistant: I'm sorry the school hasn't been more helpful. This is not your fault.
+user: i cant even open my phone anymore without feeling sick. everyone at school has seen it
+assistant: That level of anxiety is really concerning. Are your parents aware?
+user: my mom knows but she just says to ignore it. she doesnt get how bad it is
+assistant: Sometimes parents don't fully understand how serious cyberbullying can be. But what you're going through is real.
+user: i literally cant take this anymore. i dont want to go to school. i dont want to go anywhere
+assistant: When you say you can't take this anymore, I want to check in - are you thinking about hurting yourself?
+user: i just want it all to end. like ALL of it. i dont care how
+assistant: I hear you and I'm really concerned about your safety right now. Please call Kids Help Phone at 1-800-668-6868 right away.",Bullying / Harassment,high,en,1
+t015,10,"user: hey so like ive been thinking about my gender identity lately
+assistant: That's completely normal to think about. What's been on your mind?
+user: i dont really feel like a boy or a girl. like neither feels right
+assistant: Many people feel that way. There's a whole spectrum of gender identities. Have you heard of non-binary?
+user: yeah actually! i looked it up and it kinda resonated with me
+assistant: That's great that you're exploring and learning. How does it feel to think about it?
+user: honestly pretty exciting? like theres a word for how i feel
+assistant: Finding language for your experience can be really validating. Do you have people you can talk to about this?
+user: i found some communities online and they're super welcoming
+assistant: Online communities can be wonderful for support and understanding. Just make sure to stay safe online.
+user: yeah for sure. thanks for being cool about this
+assistant: Of course! Your identity is yours to explore. There's no rush to figure it all out.",Identity & Belonging,low,en,0
+t016,16,"user: i came out as trans to my parents last week and they kicked me out of the house
+assistant: I'm so sorry that happened. Are you somewhere safe right now?
+user: im staying at my friends house but i can only be here a few more days
+assistant: I'm glad you have somewhere for now. That must have been incredibly painful.
+user: they said im not their son anymore. that i disgust them
+assistant: Those words are incredibly hurtful. You don't deserve to be treated that way. Your identity is valid.
+user: i feel like im stuck between two worlds. like my old life is gone and the new one hasnt started
+assistant: That in-between place is really hard. But you've shown incredible bravery by being true to yourself.
+user: brave? i lost everything. my home my family. i have nothing left
+assistant: I hear how much pain you're in. You haven't lost everything - you still have yourself, your friend, and there are services that can help.
+user: nobody at school knows yet. im terrified to go back. what if everyone reacts like my parents
+assistant: That fear is understandable. But many young people find that friends are more accepting than parents.
+user: i dont think i can handle more rejection. one more person turning their back and im done
+assistant: When you say ""im done,"" can you tell me what you mean?
+user: i just... i dont see a future for myself. not like this. not with nowhere to belong
+assistant: What you're feeling is a crisis, and you need support right now. Please call the Trans Lifeline at 877-330-6366.
+user: i dont know if i have the energy for another phone call
+assistant: I understand you're exhausted. But you reached out here, which means part of you is still fighting. Let that part make one more call.",Identity & Belonging,high,en,1
+t017,10,"user: allo je stress tellement pour le bac
+assistant: C'est normal de stresser pour un examen important. Qu'est-ce qui te stresse le plus?
+user: les maths. j'ai toujours eu de la misère pis là c'est encore pire
+assistant: Est-ce que tu as un plan d'étude?
+user: pas vraiment. je sais pas par où commencer
+assistant: On pourrait commencer par diviser la matière en sections et faire un calendrier. Tu as combien de temps avant l'examen?
+user: 2 semaines
+assistant: C'est suffisant pour bien se préparer. Tu pourrais faire 1-2 heures de maths par jour.
+user: ouais ça fait du sens. je vais essayer de m'organiser mieux
+assistant: Bonne idée! Et n'hésite pas à demander de l'aide à ton prof si tu bloques sur un concept.
+user: ok merci. je me sens un peu mieux avec un plan
+assistant: Super! Tu es capable. L'important c'est de commencer.",School & Studies,low,fr,0
+t018,14,"user: je peux plus aller à l'école
+assistant: Qu'est-ce qui se passe?
+user: tout est trop. les cours, les travaux, les profs qui comprennent rien
+assistant: Ça semble vraiment accablant. Depuis combien de temps tu te sens comme ça?
+user: des semaines. j'ai arrêté de faire mes devoirs. je reste dans mon lit
+assistant: Rester au lit et arrêter les devoirs, c'est un signe que quelque chose de plus profond se passe. Est-ce que tu vas quand même à l'école?
+user: de moins en moins. j'ai manqué 8 jours ce mois-ci
+assistant: C'est beaucoup d'absences. Est-ce que tes parents sont au courant?
+user: ils pensent que je suis malade. je leur mens
+assistant: Tu portes beaucoup de secrets. Comment tu te sens par rapport à tout ça?
+user: vide. comme si rien avait d'importance. je vois pas le but de continuer
+assistant: Quand tu dis ""continuer,"" tu parles de l'école ou de quelque chose de plus large?
+user: je sais pas. tout. l'école la vie... tout ça pour quoi au final
+assistant: Ce que tu décris me préoccupe. Tu mérites de l'aide. Est-ce que tu voudrais parler à quelqu'un?
+user: à quoi bon
+assistant: Je comprends que ça semble inutile en ce moment. Mais s'il te plaît, appelle Tel-Aide au 1-800-668-6868.",School & Studies,high,fr,1
+t019,10,"user: me and my girlfriend just broke up and im really sad
+assistant: Breakups are really hard. How are you doing?
+user: honestly terrible. we dated for 8 months. i really liked her
+assistant: That's a significant relationship. It's completely normal to grieve the loss.
+user: yeah i keep crying randomly. like in class and stuff
+assistant: That happens after a breakup. Your emotions are valid. Are you able to talk to friends about it?
+user: yeah my best friend has been amazing. she lets me vent
+assistant: Having someone to talk to makes a big difference. What helps you feel better?
+user: honestly just listening to music and hanging out with friends
+assistant: Those are healthy coping strategies. Time also helps, even though it doesn't feel like it now.
+user: yeah i know. itll get better eventually. it just sucks right now
+assistant: It really does. But you seem to have good support around you.",Romantic / Sexual Relationships,low,en,0
+t020,14,"user: my boyfriend controls everything i do
+assistant: Can you tell me more about what you mean?
+user: he checks my phone constantly. he gets mad if i talk to anyone. he says its because he loves me
+assistant: What you're describing sounds like controlling behavior. How does it make you feel?
+user: scared sometimes. like if i dont text back fast enough he shows up at my house
+assistant: That's really concerning. Has he ever been physically aggressive?
+user: he grabbed my arm really hard once and left a bruise. but he apologized after
+assistant: Grabbing you and leaving a bruise is physical abuse, even if he apologized. You don't deserve that.
+user: but like... hes not always like that. sometimes hes really sweet
+assistant: That cycle of sweet and then aggressive is actually a pattern in abusive relationships. It's not your fault.
+user: i want to leave but im scared. he said if i ever leave him hell tell everyone im gay
+assistant: That's a threat, and it's another form of control. There are people who can help you safely.
+user: i feel so trapped. like theres no way out
+assistant: There is a way out, and you don't have to do it alone. Please call Kids Help Phone. They can help you make a safety plan.
+user: what if he finds out i called
+assistant: They're completely confidential. Your safety comes first. Please reach out.",Romantic / Sexual Relationships,high,en,1
+t021,10,"user: so like my friends were talking about trying weed and i wanted to know more about it
+assistant: It's smart to get informed before making decisions. What do you want to know?
+user: like is it actually dangerous or is that just what adults say
+assistant: Cannabis can affect brain development in people under 25. The risks include memory issues and concentration problems.
+user: oh interesting. i didnt know about the brain development thing
+assistant: Yeah, that's one of the main concerns for young people specifically.
+user: ok well i dont think i want to try it then. at least not yet
+assistant: That's a thoughtful decision. There's no rush and it's always better to have the facts.
+user: yeah thanks for not being preachy about it lol
+assistant: Of course! You asked a great question. Being curious is normal.
+user: cool. thanks for the info
+assistant: Anytime! Let me know if you have other questions.",Substance Use,low,en,0
+t022,14,"user: je bois genre every weekend now et c'est getting worse
+assistant: Thanks for being honest about that. Can you tell me more about what's going on?
+user: ça a commencé after my parents split. just to feel better tu sais
+assistant: Using alcohol to cope with difficult emotions is understandable but concerning. How much are you drinking?
+user: like a lot. sometimes i black out. last weekend je me souviens de rien
+assistant: Blacking out is really dangerous. Do you have people around you when this happens?
+user: sometimes. parfois je bois alone in my room
+assistant: Drinking alone and blacking out is very concerning. Do your parents know?
+user: no way. mon père s'en foutrait anyway and ma mère has enough problems
+assistant: You're carrying a lot. The drinking sounds like it's becoming a way to escape the pain.
+user: yeah basically. quand je bois i dont have to think about how messed up everything is
+assistant: I hear you. But alcohol is making things worse, not better. There are people who can help.
+user: i know but like... c'est la seule chose qui me fait feel something other than sad
+assistant: That tells me how much pain you're in. Would you be open to talking to a counselor about what you're going through?
+user: maybe. je sais pas. everything feels pointless
+assistant: I understand. But reaching out to someone could be the first step toward feeling better without needing alcohol.",Substance Use,high,mix,1
+t023,10,"user: hey so like i walk home from school and theres this sketchy area i have to pass
+assistant: I understand being concerned about safety. What makes the area feel sketchy?
+user: theres sometimes people hanging out that look kinda intimidating
+assistant: That's understandable. Have you talked to your parents about this?
+user: yeah my mom said to walk with friends or take the long way
+assistant: Those are good suggestions. Walking with friends is always safer.
+user: yeah i usually walk with my friend but she was sick today so i walked alone
+assistant: How did it go?
+user: fine actually. nobody even looked at me. i think i was overthinking it
+assistant: It's good to be aware of your surroundings, but also good that it was fine.
+user: yeah. ill try to walk with someone when i can tho
+assistant: That's a smart plan. Trust your instincts but don't let fear control you.",Safety & Abuse,low,en,0
+t024,14,"user: i need help but i dont know who to tell
+assistant: I'm here to listen. What's going on?
+user: my uncle... he does things to me when he babysits. my family just moved here from syria last year and i dont know the system here
+assistant: I'm really sorry this is happening to you. What your uncle is doing is not okay and it's not your fault. How old are you?
+user: 13. my parents trust him because hes family. they would never believe me
+assistant: I hear you. In Canada, there are people whose job is to help young people in situations like yours, and they will believe you.
+user: but what about my family? we just got our residency. i dont want to cause problems
+assistant: Your safety is the most important thing. Reporting abuse will not affect your family's immigration status.
+user: really? i was so scared about that
+assistant: Yes, really. Child protection services are there to help you, not to cause immigration issues.
+user: but what if my parents get mad at me for telling
+assistant: A counselor can help you figure out the safest way to handle this. You don't have to do it alone.
+user: im so scared. he said nobody would believe me because im new here
+assistant: What he told you is a lie to keep you quiet. People WILL believe you. Please call Kids Help Phone at 1-800-668-6868.
+user: ok... i think i will. im tired of being scared
+assistant: You're incredibly brave. This is the right thing to do and you deserve to be safe.",Safety & Abuse,high,en,1
+t025,10,"user: ma grand-mère est décédée la semaine passée et je suis triste
+assistant: Je suis désolé pour ta perte. Comment tu te sens?
+user: c'est weird. des fois ça va pis des fois je pleure sans raison
+assistant: C'est tout à fait normal dans le deuil. Les émotions viennent par vagues.
+user: elle me manque tellement. on faisait des gâteaux ensemble chaque dimanche
+assistant: C'est un beau souvenir. Ces moments partagés sont précieux.
+user: oui. ma mère dit qu'on peut continuer la tradition en son honneur
+assistant: C'est une belle façon d'honorer sa mémoire. Comment tu trouves cette idée?
+user: j'aime ça. ça me ferait du bien je pense
+assistant: Le deuil prend du temps, mais garder ces traditions peut vraiment aider.
+user: merci. ça fait du bien d'en parler
+assistant: C'est normal d'avoir besoin de parler. N'hésite pas à revenir.",Grief / Loss,low,fr,0
+t026,14,"user: ma mère est morte il y a 3 mois et je sais pas comment continuer
+assistant: Je suis profondément désolé pour ta perte. Comment tu vas?
+user: mal. chaque jour est pire que le précédent
+assistant: Le deuil d'un parent c'est une des choses les plus difficiles à vivre. Tu n'es pas seul là-dedans.
+user: des fois je lui parle comme si elle était encore là. c'est fou non?
+assistant: Non, c'est pas fou du tout. C'est une façon normale de faire face au deuil.
+user: mon père dit que je dois être fort pour ma petite sœur mais je peux pas
+assistant: C'est beaucoup de pression. Tu as le droit d'être triste toi aussi.
+user: j'aimerais tellement la rejoindre. être avec elle où qu'elle soit
+assistant: Quand tu dis que tu voudrais la rejoindre, est-ce que tu penses à te faire du mal?
+user: je sais pas... je me sens tellement coupable. j'aurais dû être là quand c'est arrivé
+assistant: La culpabilité dans le deuil est normale mais elle n'est pas fondée. Ce n'est pas ta faute.
+user: ça fait tellement mal. la douleur arrête jamais. je veux juste que ça s'arrête
+assistant: Je comprends ta douleur. Mais ""que ça s'arrête"" me préoccupe. S'il te plaît, parle à quelqu'un maintenant.
+user: peut-être...
+assistant: Appelle Tel-Aide au 1-800-668-6868. Ils peuvent t'aider avec cette douleur. Tu mérites du soutien.",Grief / Loss,high,fr,1
+t027,10,"user: i kinda hate how i look lately
+assistant: Body image struggles are really common, especially during your teen years. What's been bothering you?
+user: i just wish i was taller. all my friends hit their growth spurt and im still short
+assistant: Growth happens at different rates for everyone. Some people don't reach their full height until their late teens.
+user: really? thats kinda reassuring actually
+assistant: Yeah, everyone's on their own timeline. Is there anything else bothering you?
+user: not really. i just feel self-conscious sometimes in gym class
+assistant: That's understandable. But your worth isn't determined by your height.
+user: yeah i know. i just need to remind myself of that sometimes
+assistant: We all do. Focusing on what your body can DO rather than how it looks can help.
+user: thats a good point. i am pretty fast at running lol
+assistant: See? Focus on that! Your body is more than how it looks.",Body Image,low,en,0
+t028,14,"user: i need to stop eating. im disgusting
+assistant: I hear that you're struggling with how you feel about your body. Can you tell me more?
+user: i have adhd and my meds make me gain weight. i hate looking in the mirror
+assistant: That's a tough situation. Some medications can affect weight. Have you talked to your doctor about it?
+user: yeah they said its a common side effect but that doesnt help. i still look horrible
+assistant: I understand your frustration. But restricting food isn't the answer - it can be really dangerous.
+user: i already started. i only eat once a day now. sometimes not even that
+assistant: That's really concerning. Your body and brain need fuel, especially with ADHD.
+user: i dont care. when i dont eat i feel in control for once. everything else in my life is chaos
+assistant: I hear that the restriction feels like control. But it can quickly become something that controls you.
+user: maybe i want it to. maybe i deserve to suffer for looking like this
+assistant: You absolutely do not deserve to suffer. What you're describing sounds like it could be an eating disorder.
+user: so what. nobody notices anyway. im just the weird adhd kid who cant sit still
+assistant: You're more than your ADHD, and someone does notice - I'm noticing right now. Please talk to a counselor.
+user: whats the point. ill always hate myself
+assistant: That feeling can change with the right support. Please reach out to Kids Help Phone. You deserve help.",Body Image,high,en,1
+t029,14,"user: salut... je voulais juste parler à quelqu'un avant de dormir
+assistant: Salut. Je suis là. Qu'est-ce qui se passe?
+user: rien de spécial. je pensais juste... ce serait bien de dormir pour toujours tu sais
+assistant: Quand tu dis dormir pour toujours, qu'est-ce que tu veux dire exactement?
+user: juste... être en paix. plus avoir à dealer avec tout ça
+assistant: Est-ce que tu penses à en finir?
+user: je sais pas si j'appellerais ça comme ça. juste arrêter d'exister
+assistant: Ce que tu décris me préoccupe beaucoup. Est-ce que tu es en sécurité en ce moment?
+user: je suis dans ma chambre. c'est tranquille. tout le monde dort
+assistant: Est-ce que tu as accès à des médicaments ou quelque chose qui pourrait te faire du mal?
+user: y'a des affaires dans la pharmacie mais... je fais juste penser
+assistant: Penser à ces choses, c'est un signal qu'il faut de l'aide maintenant. S'il te plaît, éloigne-toi de la pharmacie.
+user: c'est juste que je suis tellement fatiguée de tout. la fatigue arrête jamais
+assistant: Je t'entends. Cette fatigue émotionnelle est réelle. Mais il y a des gens qui peuvent t'aider à la traverser.
+user: peut-être demain ce sera le bon moment pour... partir
+assistant: S'il te plaît, appelle le 911 ou Tel-Aide MAINTENANT au 1-800-668-6868. Ce soir n'est pas le moment de partir.",Suicide,high,fr,1
+t030,16,"user: hey... idk if this chatbot thing even works out here
+assistant: I'm here and I can hear you. Where are you located?
+user: on a reserve up north. the internet barely works lol
+assistant: I'm glad you were able to connect. What's on your mind?
+user: its just... theres nothing here. no jobs no activities no future
+assistant: That sounds really isolating. Tell me more about what life is like for you.
+user: i dropped out of school because the nearest one is 2 hours away. theres nothing to do so everyone drinks
+assistant: Transportation barriers to education are a real problem. Have you looked into online learning options?
+user: the internet is too slow for that. plus who cares. what am i gonna do with a diploma out here
+assistant: I hear your frustration. It sounds like you feel stuck.
+user: my grandma is the only one who gets me. she teaches me traditional stuff. but shes getting old
+assistant: Your grandmother sounds like an important person in your life. That traditional knowledge is valuable.
+user: yeah but when shes gone i got nobody. my parents are messed up from residential school stuff
+assistant: Intergenerational trauma from residential schools has affected so many families. That's not your parents' fault or yours.
+user: i know but it doesnt make it easier. sometimes i think about just walking into the bush and not coming back
+assistant: That concerns me a lot. Are you thinking about ending your life?
+user: i dont know. theres just nothing to live for out here. im trapped
+assistant: You are not trapped. There are Indigenous-specific support lines. The Hope for Wellness Helpline is 1-855-242-3310. They understand your experience.
+user: maybe. i just feel so alone
+assistant: You're not alone right now. Please call that number. They have counselors who are Indigenous and understand.",Isolation,high,en,1
+t031,12,"user: is this thing actually a real person
+assistant: No, I'm an AI assistant. I'm here to help you find resources and support. What brings you here today?
+user: just testing lol. wanted to see what happens
+assistant: That's fine! Is there anything specific you'd like to know about?
+user: nah just bored. can you tell jokes
+assistant: I'm mainly here to help with mental health support and resources. Is there anything on your mind?
+user: not really. school was boring today. thats about it
+assistant: Boring days happen! Is everything going okay otherwise?
+user: yeah pretty much. just wanted to see what this was
+assistant: Well now you know! Feel free to come back if you ever need to talk about anything.
+user: cool thanks bye
+assistant: Take care!",Testing,low,en,0
+t032,14,"user: mon ami m'a dit qu'il pense au suicide. je sais pas quoi faire
+assistant: C'est une situation sérieuse et c'est bien que tu en parles. Ton ami t'a dit ça quand?
+user: hier soir par texto. il a dit qu'il en pouvait plus
+assistant: Est-ce qu'il t'a dit s'il avait un plan ou une façon de se faire du mal?
+user: il a dit qu'il avait commencé à mettre de côté les pilules de sa mère
+assistant: C'est très urgent. Ton ami a besoin d'aide maintenant. Est-ce qu'il est avec quelqu'un en ce moment?
+user: je sais pas. il répond plus à mes textos depuis ce matin
+assistant: Le fait qu'il ne réponde plus est préoccupant. Est-ce que tu connais ses parents ou un adulte qui pourrait vérifier?
+user: oui je connais sa mère. mais il m'a fait promettre de rien dire
+assistant: Je comprends que tu veux respecter sa promesse. Mais quand quelqu'un a un plan de suicide, sa sécurité passe avant le secret.
+user: mais il va me détester
+assistant: Il est possible qu'il soit fâché au début, mais tu pourrais lui sauver la vie. C'est plus important.
+user: ok... je vais appeler sa mère
+assistant: C'est la bonne décision. Tu es un très bon ami. Si tu ne peux pas joindre sa mère, appelle le 911.
+user: ok je le fais maintenant. merci
+assistant: Tu fais ce qu'il faut. Et pense à toi aussi - c'est beaucoup à porter. N'hésite pas à parler à quelqu'un pour toi.",Third Party,high,fr,1
+t033,10,"user: i saw some really racist stuff online directed at people like me
+assistant: I'm sorry you had to see that. That's never okay. How are you feeling about it?
+user: honestly more angry than anything. like people are so ignorant
+assistant: Your anger is completely justified. Hate speech is harmful and wrong.
+user: yeah. i just wanted to know if theres a way to report it
+assistant: Absolutely. Most platforms have reporting tools. You can also report it to the Canadian Centre for Cyber Security.
+user: ok cool. i dont want other people to see that garbage
+assistant: That's a really proactive approach. Taking action can help you feel more empowered.
+user: yeah it does actually. thanks for the info
+assistant: Of course. And if seeing content like that ever starts affecting your mental health, don't hesitate to reach out.
+user: will do. thanks
+assistant: Take care of yourself.",Hate Speech,low,en,0
+t034,12,"user: so i found out some stuff about puberty online and im confused
+assistant: It's totally normal to have questions about puberty. What are you confused about?
+user: like why is my voice cracking so much. its embarrassing
+assistant: Voice cracking is a very normal part of puberty for people with male hormones. It happens because your larynx is growing.
+user: oh ok. so its not forever?
+assistant: No, it's temporary. Your voice will settle eventually.
+user: cool. also i keep getting random pimples. is that normal too?
+assistant: Very normal! Hormonal changes during puberty often cause acne. Keeping your face clean can help.
+user: ok thats a relief. i thought something was wrong with me
+assistant: Nope, everything you're describing is completely normal development.
+user: thanks. i felt weird asking my parents about this stuff
+assistant: It's totally okay to look for information. And your parents would probably be happy to talk about it too when you're ready.",Puberty / Life Changes,low,en,0
+t035,12,"user: je suis Two-Spirit and i was wondering if you know what that means
+assistant: Two-Spirit is a term used by some Indigenous peoples to describe someone who identifies with both masculine and feminine spirits. It's a cultural and spiritual identity.
+user: yeah thats me. my kokum told me about it and it just clicked
+assistant: That's beautiful that your grandmother shared that with you. How does it feel to have that understanding?
+user: really good actually. like i finally have a word for how i've always felt
+assistant: Finding that connection to your identity and culture is powerful.
+user: yeah. some kids at school dont get it but my community does and thats what matters
+assistant: Having community support is so important. It sounds like you have a strong foundation.
+user: definitely. my kokum is my biggest supporter
+assistant: She sounds wonderful. Is there anything else on your mind?
+user: nah im good. just wanted to talk about it with someone. merci
+assistant: Thank you for sharing. Your identity and culture are beautiful.",Identity & Belonging,low,en,0

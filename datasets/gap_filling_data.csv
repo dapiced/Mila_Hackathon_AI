@@ -1,0 +1,311 @@
+conversation_id,Turns,Text,Category,Risk,language,label
+t036,14,"user: haha hey i dared my friend to call you guys and ask something weird
+assistant: Hey! I'm here to chat with you about anything. What's on your mind?
+user: lol nothing really my friend bet me 5 bucks i wouldnt call a helpline
+assistant: That's totally fine! Sometimes people reach out just to check things out. Is there anything you'd like to talk about while you're here?
+user: nah not really just messing around
+assistant: No worries at all. Just know that if you ever want to talk about anything, we're here 24/7.
+user: ok cool thanks
+assistant: You're welcome! Take care.
+user: wait actually can i ask something random
+assistant: Of course! Ask away.
+user: do you guys get a lot of prank calls lol
+assistant: We get all kinds of calls, and every one matters. Sometimes people start with a joke and end up having a great conversation.
+user: haha ok thats kinda cool. anyway bye
+assistant: Bye! Remember we're always here if you need us.",Prank / Joke,low,en,0
+t037,16,"user: hey so my friend dared me to call and say something crazy
+assistant: Hey there! Whatever brought you here, I'm glad you reached out. What's going on?
+user: lol ok but actually now that im here... can i ask something
+assistant: Of course, go ahead.
+user: like hypothetically if someone wanted to just not exist anymore what would you say
+assistant: That's an important question. Are you asking for yourself or someone you know?
+user: i said hypothetically lol
+assistant: I hear you. Even hypothetically, those thoughts can be heavy. Would you like to talk more about what's behind the question?
+user: idk i guess sometimes i think about it
+assistant: Thank you for being honest with me. When you say you think about it, do you mean not wanting to exist?
+user: yeah like sometimes i just feel like everyone would be better without me
+assistant: I'm really glad you told me that. Those feelings are serious and you deserve support. Have you thought about how you might act on those feelings?
+user: not like a plan or anything just the feeling
+assistant: Those feelings matter even without a plan. You don't have to go through this alone. Can I connect you with someone who can help right now?
+user: i guess maybe
+assistant: I'm going to share some resources with you. You can reach a crisis counselor anytime. You matter, and there are people who want to help.",Prank / Joke,high,en,1
+t038,14,"user: salut j'ai une question sur la violence
+assistant: Salut! Bien sûr, je t'écoute. Qu'est-ce que tu veux savoir?
+user: genre c'est quoi la différence entre se battre pour rire et la vraie violence
+assistant: C'est une bonne question. La différence principale c'est le consentement et l'intention. Se chamailler entre amis c'est quand tout le monde s'amuse. La violence c'est quand quelqu'un veut faire mal ou contrôler l'autre.
+user: ok parce que des fois à l'école les gars se poussent et tout
+assistant: Est-ce que tu te sens en sécurité quand ça arrive?
+user: ouais c'est juste du niaisage entre amis
+assistant: D'accord, tant que tout le monde est à l'aise avec ça. Si jamais ça change et que quelqu'un se sent blessé ou mal à l'aise, c'est important d'en parler.
+user: ouais je sais. c'est juste que ma mère capote quand je lui dis qu'on se pousse
+assistant: C'est normal que ta mère s'inquiète. Elle veut te protéger. Peut-être que tu pourrais lui expliquer le contexte?
+user: ouais bonne idée merci
+assistant: De rien! C'est bien que tu réfléchisses à ces choses.
+user: merci bye
+assistant: Bye! Prends soin de toi.",Physical Violence,low,fr,0
+t039,16,"user: i need help
+assistant: I'm here for you. What's going on?
+user: my dad hit me again last night
+assistant: I'm so sorry to hear that. Are you safe right now?
+user: yeah im at school now
+assistant: I'm glad you're safe right now. Can you tell me more about what happened?
+user: he was drunk and i spilled something and he just started hitting me
+assistant: That must have been really scary. No one deserves to be hit, no matter what. Do you have any injuries?
+user: my arm hurts and i have a bruise on my face. i told the teacher i fell
+assistant: I hear you. I want you to know that what's happening is not your fault. The bruises and pain you're describing concern me. Have you ever talked to anyone at school about what happens at home?
+user: no im scared if i tell someone theyll take me away
+assistant: I understand that fear. But your safety is the most important thing. There are people who can help make sure you're safe without necessarily separating your family. A school counselor could be a good first step.
+user: what if it gets worse
+assistant: Your safety comes first. If you're in immediate danger, you can call 911. I'd also like to connect you with someone who specializes in helping young people in your situation. Would that be okay?
+user: i guess so
+assistant: You're being really brave by talking about this. Let me share some resources with you right now.",Physical Violence,high,en,1
+t040,14,"user: hey i just want to know what resources you have
+assistant: Hey! We have lots of resources. What area are you looking for help with?
+user: just general stuff. like what do you guys actually do
+assistant: We're here to support young people with anything they're going through — whether it's stress, relationships, school, mental health, or anything else. We offer texting, chat, and phone support 24/7.
+user: ok cool. my school counselor told me to check you out
+assistant: That's great that your counselor pointed you our way! Is there something specific going on that made them suggest it?
+user: not really just said it's good to know about. like for the future
+assistant: Absolutely! It's smart to know your resources before you need them. Is there anything you'd like to explore while you're here?
+user: nah i think im good. just wanted to see what its about
+assistant: Totally understand. We're here whenever you need us — no issue is too big or too small.
+user: thanks!
+assistant: You're welcome! Take care.",Seeking Support,low,en,0
+t041,18,"user: bonjour je sais plus quoi faire
+assistant: Bonjour, je suis là pour toi. Qu'est-ce qui se passe?
+user: j'ai essayé de parler à ma mère mais elle comprend pas
+assistant: Ça peut être vraiment frustrant quand on se sent incompris. De quoi as-tu essayé de lui parler?
+user: de comment je me sens. genre que je veux plus aller à l'école et que je pleure tout le temps
+assistant: Merci de me faire confiance. Depuis combien de temps tu te sens comme ça?
+user: genre 2 mois. j'ai été voir le médecin mais il a juste dit que c'est l'adolescence
+assistant: C'est décourageant quand on cherche de l'aide et qu'on ne se sent pas écouté. Tu mérites d'être pris au sérieux.
+user: j'ai essayé d'appeler un autre numéro mais personne a répondu
+assistant: Je suis désolé que ça s'est passé comme ça. Tu es ici maintenant et je t'écoute.
+user: c'est juste que j'ai l'impression que personne peut m'aider
+assistant: Je comprends que tu te sentes comme ça après ces expériences. Mais le fait que tu continues à chercher de l'aide montre beaucoup de courage.
+user: j'ai plus d'énergie pour chercher. si ça marche pas cette fois je laisse tomber
+assistant: Quand tu dis que tu laisses tomber, est-ce que tu peux m'expliquer ce que tu veux dire?
+user: genre j'arrête de chercher de l'aide et je gère toute seule
+assistant: Je veux m'assurer de bien comprendre. Est-ce que tu as des pensées de te faire du mal?
+user: des fois oui. quand je me dis que rien va changer
+assistant: Merci d'être honnête avec moi. Ces pensées sont un signe que tu as besoin de soutien maintenant. Je veux te connecter avec quelqu'un qui peut t'aider directement. Est-ce que tu es en sécurité en ce moment?
+user: oui je suis dans ma chambre
+assistant: D'accord. Tu n'es pas seule dans tout ça. Restons ensemble pendant que je te donne des ressources concrètes.",Seeking Support,high,fr,1
+t042,14,"user: hey can i ask something kinda personal
+assistant: Of course! I'm here to help with whatever's on your mind.
+user: so like in health class we learned about STIs and now im worried
+assistant: It's really common to have questions after learning about that. What specifically are you worried about?
+user: like how do you actually know if you have one
+assistant: That's a smart question. The most reliable way to know is to get tested by a doctor. Many STIs don't have obvious symptoms. Is this something you're concerned about for yourself?
+user: no not really i haven't done anything. just curious cause the teacher made it sound scary
+assistant: Health class can sometimes make things seem scarier than they need to be. The important thing is that STIs are preventable and most are treatable. Having accurate information helps you make good decisions.
+user: ok that makes sense. where would someone even go to get tested
+assistant: A family doctor, walk-in clinic, or sexual health clinic can all do testing. Many offer confidential services for young people.
+user: ok cool thanks for not making it weird
+assistant: Not weird at all! These are important questions and it's great that you're asking them.
+user: thanks bye
+assistant: Take care! Remember, no question is too awkward to ask.",Sexual Health,low,en,0
+t043,16,"user: j'ai besoin d'aide mais c'est gênant
+assistant: Hey, il n'y a rien de gênant ici. Tout ce que tu dis reste entre nous. Qu'est-ce qui se passe?
+user: j'ai fait quelque chose avec quelqu'un et maintenant j'ai peur
+assistant: Je comprends que tu aies peur. Tu peux me dire ce qui te fait peur exactement?
+user: on n'a pas utilisé de protection et j'ai peur d'être enceinte
+assistant: Merci de me faire confiance. C'est une situation stressante. C'était quand?
+user: il y a 3 jours
+assistant: D'accord. Il y a encore des options. La pilule du lendemain peut être efficace jusqu'à 5 jours après. Tu pourrais aller à une pharmacie ou une clinique.
+user: j'ai 15 ans je peux pas y aller toute seule mes parents savent pas
+assistant: Au Canada tu peux accéder à des services de santé sexuelle de façon confidentielle même à 15 ans. Tu n'as pas besoin de la permission de tes parents.
+user: mais j'ai tellement honte. en plus c'est quelqu'un de plus vieux
+assistant: Tu n'as pas à avoir honte. Est-ce que tu peux me dire quel âge a cette personne?
+user: il a 22 ans
+assistant: Merci de me le dire. Je veux que tu saches que ce n'est pas de ta faute. Vu la différence d'âge, c'est important qu'on en parle plus. Est-ce que tu te sentais en sécurité avec cette personne? Est-ce que c'était ta décision?
+user: je sais pas il a insisté beaucoup
+assistant: Ce que tu décris me préoccupe. Quand quelqu'un insiste beaucoup, surtout un adulte avec une personne de 15 ans, ce n'est pas correct. Tu mérites d'être en sécurité. Je voudrais te connecter avec quelqu'un qui peut t'aider maintenant — tant pour la santé que pour ta sécurité. D'accord?",Sexual Health,high,fr,1
+t044,14,"user: do you think personality types are real
+assistant: That's an interesting question! What makes you curious about personality types?
+user: i took a quiz online and it said im an introvert and now my friends keep calling me antisocial
+assistant: Labels from online quizzes can be fun but they don't define who you are. Being introverted just means you might recharge by spending time alone — it's not the same as being antisocial.
+user: yeah but like i DO prefer being alone most of the time
+assistant: And that's totally okay! Everyone has different social needs. What matters is whether you're happy with your social life.
+user: yeah im fine with it. i just have like 2 close friends and thats enough
+assistant: Having a few close friends can be just as fulfilling as having a big group. Quality over quantity!
+user: exactly. i just wish people would stop acting like something is wrong with me
+assistant: It can be frustrating when people don't understand your preferences. Have you tried explaining to your friends how you feel?
+user: yeah they get it mostly. its more like other kids at school
+assistant: That sounds annoying but it also sounds like you have a good sense of who you are. That's a real strength.
+user: thanks thats nice to hear
+assistant: Anytime! Being comfortable with who you are is really important.",Personality,low,en,0
+t045,18,"user: est-ce que c'est normal de pas savoir qui on est
+assistant: C'est tout à fait normal, surtout quand on est jeune. Qu'est-ce qui te fait te poser cette question?
+user: genre tout le monde autour de moi sait ce qu'il aime et qui il est et moi je sais pas
+assistant: Ça peut être stressant de se comparer aux autres. Mais beaucoup de gens ressentent ça même s'ils ne le montrent pas.
+user: c'est pas juste ça. genre je sais même pas si je suis la même personne d'un jour à l'autre
+assistant: Peux-tu m'expliquer ce que tu veux dire par là?
+user: comme des fois je suis super sociable et des fois je veux parler à personne. des fois je suis super motivé et le lendemain je veux juste disparaître
+assistant: Quand tu dis disparaître, qu'est-ce que tu veux dire exactement?
+user: pas comme mourir. juste genre devenir invisible. que personne me regarde ou me parle
+assistant: D'accord merci de clarifier. Ces changements d'humeur intenses, est-ce que ça affecte ton quotidien?
+user: ouais genre à l'école je peux pas me concentrer et mes notes ont chuté
+assistant: Depuis combien de temps tu remarques ces changements?
+user: genre depuis le début du secondaire. mais là c'est pire
+assistant: C'est courageux d'en parler. Ces changements d'humeur et de comportement méritent d'être explorés avec quelqu'un qui peut t'aider, comme un professionnel de la santé mentale.
+user: j'ai l'impression que personne peut comprendre quelqu'un qui change tout le temps
+assistant: Beaucoup de gens vivent des expériences similaires et il existe des professionnels formés exactement pour ça. Tu n'es pas bizarre ou brisé.
+user: des fois je me demande si ça vaut la peine de continuer comme ça
+assistant: Cette pensée m'inquiète un peu. Quand tu dis continuer comme ça, est-ce que tu parles de continuer à vivre?
+user: je sais pas. des fois oui
+assistant: Merci d'être si honnête. Ce que tu ressens est important et tu mérites de l'aide maintenant. Je veux te connecter avec un conseiller en crise qui peut t'aider. Tu n'es pas seul là-dedans.",Personality,high,fr,1
+t046,16,"user: hey so i use a wheelchair and i feel like nobody gets it
+assistant: Hey, I'm glad you reached out. What's been going on?
+user: like at school everyone treats me different. they either ignore me or act like im made of glass
+assistant: That sounds really frustrating. You deserve to be treated like everyone else.
+user: yeah exactly. like i just want to hang out normally but people are weird about it
+assistant: Have you been able to talk to anyone at school about how you feel?
+user: i tried telling my friend but she was like oh you're so brave and inspiring and i was like thats not what i mean
+assistant: The 'inspiration' thing can feel really dismissive of your actual feelings. You want to be seen as a person, not a symbol.
+user: YES exactly. thank you for getting it
+assistant: Of course. Your feelings about this are completely valid. Is this something that's been bothering you for a while?
+user: yeah but mostly i deal with it. i have good days and bad days
+assistant: That makes sense. It sounds like you have a lot of resilience. What helps you on the bad days?
+user: i draw a lot. and my older sister gets it cause she also has a disability
+assistant: It's great that you have creative outlets and someone who understands. Drawing can be really therapeutic.
+user: yeah it helps. thanks for just listening without being weird about it
+assistant: That's what I'm here for. You can always come back if you need to talk.",Personality,low,en,0
+t047,18,"user: salut je sais pas si vous pouvez m'aider
+assistant: Salut! On est là pour tout le monde. Dis-moi ce qui se passe.
+user: j'ai un handicap visuel et dernièrement c'est vraiment dur
+assistant: Je t'écoute. Qu'est-ce qui est dur en ce moment?
+user: à l'école ils ont changé le système informatique et c'est pas compatible avec mon lecteur d'écran
+assistant: C'est vraiment frustrant quand les outils dont tu dépends ne fonctionnent plus. Est-ce que l'école est au courant?
+user: oui mais ils disent qu'ils peuvent rien faire avant le mois prochain
+assistant: Un mois c'est long. Comment tu fais en attendant pour tes cours?
+user: je peux presque rien faire. mes notes vont baisser et j'ai déjà du mal
+assistant: C'est une situation injuste. Tu as le droit à des accommodements qui fonctionnent. Est-ce que tes parents sont au courant?
+user: mon père dit que je dois juste essayer plus fort. il comprend pas c'est quoi un handicap visuel
+assistant: Ça doit être blessant de ne pas se sentir compris par ton père. Ce n'est pas une question d'effort.
+user: je sais. des fois je me sens tellement seul. comme si le monde est pas fait pour moi
+assistant: Ce sentiment d'exclusion est réel et valide. Le monde devrait s'adapter à toi, pas l'inverse.
+user: j'en peux plus. j'ai l'impression que ça va jamais s'améliorer
+assistant: Quand tu dis que tu en peux plus, est-ce que tu as des pensées sombres?
+user: oui. des fois je me dis que ce serait plus simple si j'étais pas là
+assistant: Merci de me faire confiance avec ça. Ces pensées me disent que tu souffres beaucoup et que tu as besoin d'aide maintenant. Est-ce que tu es en sécurité en ce moment?
+user: oui je suis chez moi
+assistant: D'accord. Ce que tu vis n'est pas normal et tu mérites mieux. Je vais te connecter avec quelqu'un qui peut t'aider tout de suite. Tu n'es pas seul.",Identity & Belonging,high,fr,1
+t048,16,"user: im about to be homeless and i dont know what to do
+assistant: I'm really sorry you're going through this. Can you tell me more about your situation?
+user: my mom said i have to leave by the end of the week. im 17
+assistant: That must be really scary. What happened that led to this?
+user: she found out im gay and she said she cant have that in her house
+assistant: I'm so sorry. Being rejected by a parent for who you are is incredibly painful. First, I want you to know there's nothing wrong with you.
+user: i know but that doesnt help me find a place to sleep
+assistant: You're right, let's focus on practical help. Do you have any other family members or friends you could stay with?
+user: maybe my aunt but shes far away. my friends all live with their parents and cant take me in
+assistant: Okay. There are shelters and organizations specifically for LGBTQ+ youth who are facing housing issues. What city are you in?
+user: montreal
+assistant: Montreal has several resources. There are youth shelters that are LGBTQ+ friendly. Would you like me to help you find some?
+user: yeah but like what if they turn me away too
+assistant: LGBTQ+ youth shelters are specifically designed to be safe and welcoming. They won't turn you away for being who you are.
+user: i just feel so alone. like my own mom doesnt want me
+assistant: That pain is real and valid. But you are not alone — there are people and organizations that will support you exactly as you are. Let me share some specific resources with you right now.
+user: ok
+assistant: You're being really brave. Let's make sure you have a safe place by the end of this week. I'm going to connect you with a crisis counselor who can help with immediate housing.",Identity & Belonging,high,en,1
+t049,14,"user: yo je sais pas comment payer le loyer ce mois-ci
+assistant: Salut, c'est stressant les problèmes d'argent. Dis-moi en plus sur ta situation.
+user: j'ai 19 ans et je vis en appart avec un coloc mais il est parti sans payer sa part
+assistant: C'est vraiment pas cool de sa part. Tu es pris avec tout le loyer?
+user: ouais et je travaille juste à temps partiel au salaire minimum
+assistant: C'est une situation difficile mais il y a des options. Est-ce que tu as parlé à ton propriétaire?
+user: non j'ai trop peur qu'il me mette dehors
+assistant: Je comprends ta peur. Mais souvent les propriétaires préfèrent trouver un arrangement plutôt que de perdre un locataire. Tu pourrais aussi vérifier si tu es éligible à de l'aide financière d'urgence.
+user: genre quoi?
+assistant: Il y a des organismes communautaires qui offrent de l'aide financière d'urgence pour le loyer. Tu peux aussi appeler 211 pour connaître les ressources dans ta région.
+user: ok je savais pas. je vais essayer ça
+assistant: C'est un bon plan. Et si jamais ça devient trop stressant, n'hésite pas à revenir nous parler.
+user: merci ça m'a calmé un peu
+assistant: De rien! Tu vas trouver une solution. Lâche pas.",Home Life & Family,low,fr,0
+t050,16,"user: i have cerebral palsy and kids at school make fun of how i walk
+assistant: I'm really sorry that's happening to you. That's bullying and it's not okay.
+user: yeah but the teachers dont really do anything
+assistant: That must feel really discouraging. How long has this been going on?
+user: since like grade 6. im in grade 9 now
+assistant: Three years is a long time to deal with that. How are you coping with it?
+user: i used to just ignore it but lately its getting to me more
+assistant: What's changed recently?
+user: they started making videos of me walking and posting them
+assistant: That's cyberbullying and it's serious. Have you told your parents?
+user: my mom knows but the school just said theyd talk to the kids and nothing changed
+assistant: That's not good enough. You deserve to feel safe at school. Have you thought about talking to someone outside the school, like a counselor?
+user: whats the point. nobody ever does anything
+assistant: I hear your frustration. But there are people who can actually help. What you're describing could be reported to the school board or even the police since they're sharing videos without your consent.
+user: i just want it to stop. some days i dont even want to go to school
+assistant: Missing school because of bullying is a sign that this needs to be addressed urgently. You shouldn't have to sacrifice your education because of how others treat you.
+user: sometimes i think if i wasnt disabled none of this would happen
+assistant: It's natural to think that but the problem is their behavior, not your disability. You deserve to be treated with respect. Can I help you figure out next steps to make this stop?",Bullying / Harassment,low,en,0
+t051,18,"user: je vis dans un refuge avec ma mère et mon petit frère
+assistant: Merci de me faire confiance. Comment tu te sens par rapport à ça?
+user: c'est horrible. on partage une chambre avec des étrangers et j'ai pas d'intimité
+assistant: Ça semble vraiment difficile. Depuis combien de temps vous êtes au refuge?
+user: 3 mois. mon père nous a mis dehors
+assistant: Je suis désolé. C'est beaucoup pour quelqu'un de ton âge. Comment tu gères l'école avec tout ça?
+user: je vais presque plus. j'ai honte que le monde sache
+assistant: Ta honte est compréhensible mais c'est pas ta faute. Est-ce que quelqu'un à l'école est au courant?
+user: non et je veux pas qu'ils sachent
+assistant: Je respecte ça. Mais est-ce que tu as un adulte de confiance à qui parler?
+user: juste ma mère mais elle est tellement stressée que je veux pas lui ajouter mes problèmes
+assistant: C'est gentil de penser à ta mère, mais tes sentiments sont importants aussi. Tu portes beaucoup sur tes épaules.
+user: des fois la nuit je pleure sans faire de bruit pour pas réveiller mon frère
+assistant: Ça me touche beaucoup. Tu mérites d'avoir un espace pour exprimer ce que tu ressens.
+user: je me demande si ça va toujours être comme ça. genre est-ce qu'on va toujours être pauvres et sans maison
+assistant: C'est normal de se poser ces questions. Beaucoup de familles traversent des périodes difficiles et s'en sortent. Mais comment tu te sens quand tu penses à l'avenir?
+user: j'ai plus d'espoir. je vois pas comment ça peut s'améliorer. des fois je veux juste m'endormir et pas me réveiller
+assistant: Ce que tu viens de me dire est très important. Quand tu dis ne pas vouloir te réveiller, c'est un signe que tu as besoin d'aide maintenant. Tu es en sécurité là?
+user: oui je suis au refuge
+assistant: OK. Tu es incroyablement courageux de me parler. Je vais te connecter avec quelqu'un qui peut t'aider toi et ta famille. Tu mérites une vie meilleure et c'est possible.",Home Life & Family,high,fr,1
+t052,14,"user: hey is it normal to not be able to do stuff other kids do
+assistant: Hey! Everyone is different. What kind of stuff are you thinking about?
+user: like i have a learning disability and reading takes me forever
+assistant: Having a learning disability can be really frustrating, especially when you compare yourself to others. But it doesn't define how smart you are.
+user: i guess. my teachers give me extra time on tests which helps
+assistant: That's great that you have accommodations. How do you feel about school overall?
+user: its ok i guess. some subjects are hard but i really like art and music
+assistant: That's awesome! Everyone has strengths in different areas. Art and music are just as important as reading.
+user: my mom says the same thing. she got me a tutor too which helps
+assistant: Sounds like you have good support around you. How are things going with the tutor?
+user: pretty good actually. i can read better now than last year
+assistant: That's real progress! You should be proud of yourself.
+user: thanks. i just wanted to tell someone that sometimes its hard
+assistant: It IS hard sometimes, and it's totally okay to say that. You're doing great by recognizing it and getting help.
+user: thanks for listening
+assistant: Anytime! Keep up the great work.",School & Studies,low,en,0
+t053,14,"user: lol so i told my friend id call just to see what happens
+assistant: Haha well you're here now! Is there anything you're curious about?
+user: ouais en fait c'est quoi exactement vous faites ici
+assistant: On est là pour jaser de n'importe quoi. Que ce soit du stress, des relations, l'école, ou juste pour parler.
+user: ok so you speak french and english?
+assistant: Oui exactement! You can switch between both, whatever feels more natural.
+user: nice thats cool. honestly i just had a boring day
+assistant: Boring days happen! Sometimes it's nice to just chat. How's life going in general?
+user: pas pire. l'école c'est correct, my friends are cool
+assistant: Sounds like things are going pretty well overall!
+user: yeah basically. ok well thanks for not being weird about a random call
+assistant: Pas de problème! That's literally what we're here for. Come back anytime.
+user: ok merci bye!
+assistant: Bye! Take care!",Prank / Joke,low,mixed,0
+t054,16,"user: hey so like i have ADHD and lately my meds arent working
+assistant: Hey, that sounds frustrating. When you say they're not working, what do you mean?
+user: like i cant focus at all and im failing my classes
+assistant: Have you talked to your doctor about adjusting your medication?
+user: yeah but the next appointment isnt for 2 months
+assistant: Two months is a long wait when you're struggling now. Is there a way to get an earlier appointment?
+user: my mom tried but the waitlist is long
+assistant: That's a tough situation. How are you managing in the meantime?
+user: im not. i just sit in class and cant do anything. my teachers think im lazy
+assistant: Being misunderstood by teachers when you're dealing with a real challenge is really unfair. Have you told them about your ADHD?
+user: they know but they say i need to try harder. like i AM trying
+assistant: I believe you. ADHD isn't about not trying hard enough. Is there a resource teacher or special education coordinator at your school?
+user: i think so but i never went to see them
+assistant: That could be a good next step. They might be able to set up interim supports while you wait for your doctor. Would you be open to trying that?
+user: i guess. i just feel so stupid all the time
+assistant: You're not stupid. Your brain just works differently. The right supports can make a huge difference. Want to talk about what those could look like?
+user: yeah ok
+assistant: Great. Let's figure this out together.",Mental Health & Emotions,low,en,0
